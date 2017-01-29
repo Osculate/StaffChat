@@ -1,0 +1,2 @@
+Prefix: '&b[SC]'
+ChatFormat: '%prefix% &8%player%&3: &b%message%'

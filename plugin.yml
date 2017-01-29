@@ -1,0 +1,8 @@
+name: StaffChat
+version: 1.0
+main: me.osculate.staffchat.SC
+
+commands:
+   staffchat:
+      aliases: [sc]
+      permission: staffchat.sc
